@@ -1,7 +1,7 @@
 🇧🇷 Olá, eu sou a Barbara,
 Bem vindos ao meu repositório.
 
-💻 Tenho 26 anos, sou técnica em informática e adoro programar. Atualmente, estou cursando Bacharelado em Sistemas de Informação.
+💻 Tenho 25 anos, sou técnica em informática e adoro programar. Atualmente, estou cursando Bacharelado em Sistemas de Informação.
 
 🕹️ Linguagens que tenho conhecimento no momento
 
