@@ -2,11 +2,6 @@
 Bem vindos ao meu repositório.
 
 💻 Tenho 26 anos, sou técnica em informática e adoro programar. Atualmente, estou cursando Bacharelado em Sistemas de Informação.
-
-🕹️ Linguagens que tenho conhecimento
-
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"> 
           
 📚 Como estudante, estou cada dia aprimorando e buscando aumentar o meu conhecimento nas linguagens de programação. Meu repositório no momento contém alguns projetos que pratico nas aulas.
 
